@@ -1,5 +1,7 @@
 [
   {
+    "book": "mqtt.json",
+    "chapterNumber": 1,
     "title": "What is MQTT",
     "subTitle": "Don't let the cuteness fool you",
     "description": "MQTT is a widely used IoT Protocol",
@@ -16,6 +18,8 @@
     ]
   },
   {
+    "book": "mqtt.json",
+    "chapterNumber": 2,
     "title": "QOS",
     "subTitle": "Quality of service",
     "description": "How thw data will be send",
