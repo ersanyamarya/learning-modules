@@ -1,4 +1,10 @@
-[
+[{
+    "title": "learn IoT",
+    "description": "This module talks about IoT in general",
+    "featuredImage": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
+    "icon": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
+    "chapters":"iot.json"
+  },
   {
     "title": "learn MQTT",
     "description": "This module talks about MQTT",
