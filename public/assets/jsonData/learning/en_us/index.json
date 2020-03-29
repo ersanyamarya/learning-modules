@@ -2,7 +2,7 @@
   {
     "title": "learn MQTT",
     "description": "This module talks about MQTT",
-    "featured_image": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
+    "featuredImage": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
     "icon": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
     "chapters":"/mqtt.json"
   }
