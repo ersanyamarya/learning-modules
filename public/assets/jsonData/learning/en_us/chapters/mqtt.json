@@ -5,11 +5,11 @@
     "title": "What is MQTT",
     "subTitle": "Don't let the cuteness fool you",
     "description": "MQTT is a widely used IoT Protocol",
-    "featuredImage": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
+    "featuredImage": "batman.jpg",
     "images": [
-      "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
-      "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
-      "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg"
+      "batman.jpg",
+      "batman.jpg",
+      "batman.jpg"
     ],
     "content": [
       "Ullamco enim eu adipisicing sint id deserunt. Officia fugiat dolore ex laborum cupidatat duis consequat. Ut aliquip consectetur aliqua qui enim do. Officia veniam quis minim excepteur cillum fugiat cillum deserunt pariatur consequat nisi nisi reprehenderit enim. Est minim amet mollit dolore voluptate proident minim.",
@@ -23,11 +23,11 @@
     "title": "QOS",
     "subTitle": "Quality of service",
     "description": "How thw data will be send",
-    "featuredImage": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
+    "featuredImage": "batman.jpg",
     "images": [
-      "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
-      "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
-      "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg"
+      "batman.jpg",
+      "batman.jpg",
+      "batman.jpg"
     ],
     "content": [
       "Ullamco enim eu \"adipisicing\" sint id deserunt. Officia fugiat dolore ex laborum cupidatat duis consequat. Ut aliquip consectetur aliqua qui enim do. Officia veniam quis minim excepteur cillum fugiat cillum deserunt pariatur consequat nisi nisi reprehenderit enim. Est minim amet mollit dolore voluptate proident minim.",
